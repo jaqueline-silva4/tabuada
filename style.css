@@ -1,0 +1,46 @@
+body {
+    background: #1919c9;
+    font: normal 15pt Arial ;
+    
+}
+
+header {
+    color: white;
+    text-align: center;
+    text-shadow: 1px 2px 5px black;
+    font-size: 23px;
+}
+
+section {
+    background: #19c8c9;
+    border-radius: 10px;
+    padding: 15px;
+    width: 300px;
+    margin: auto;
+    color: rgb(49, 37, 37);
+    box-shadow: 5px 5px 10px rgba(114, 28, 7, 0.445);
+    text-align: center;
+}
+
+div {
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+} 
+.button {
+  background-color: #A9A9A9; 
+  padding: 10px 24px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)
+}
+
